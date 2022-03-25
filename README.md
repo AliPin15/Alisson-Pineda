@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AliPin15
+- 👋 Hi, I’m Ali Pineda
 - 👀 I’m interested in series and movies, some of music and learning.
 - 🌱 I’m currently learning English and data analysis
 <!---
